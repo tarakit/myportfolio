@@ -19,14 +19,6 @@ Software Developer Portfolio Template that helps you showcase your work and skil
 -  [ ] MacOS (probably)
 -  [X] IOs
    
-   
-##  Wanna Contribute? 🚀
-  You can contribute by doing one of the following:
-  - Starring the repository ⭐
-  - Forking the repository 🍴
-  - Creating an Issue ❌
-  - Creating a Pull Request ✔
-
 
 ## Web Set up
   Run the following commands to use the latest version of the Flutter SDK from the beta channel and enable web support:
